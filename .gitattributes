@@ -1,0 +1,5 @@
+# The 156 generated programs are evidence. Never let git rewrite their bytes.
+outputs/** -text -diff
+results/logs/** -text
+results/*/logs/** -text
+prompts.md -text

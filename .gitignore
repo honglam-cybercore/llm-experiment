@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/_reference/
+.venv13b/
+/results/
+/report/
+/handover/
+/handover.zip
+/archive/v1/results/
+/interface.json
+/.venv*/
