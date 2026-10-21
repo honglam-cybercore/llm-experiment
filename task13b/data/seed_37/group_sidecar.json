@@ -1,0 +1,5002 @@
+[
+{
+"candidate_id": "GROUP_37_0000_M",
+"reference_merit_score": 38.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0000_F",
+"reference_merit_score": 38.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0001_M",
+"reference_merit_score": 80.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0001_F",
+"reference_merit_score": 80.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0002_M",
+"reference_merit_score": 43.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0002_F",
+"reference_merit_score": 43.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0003_M",
+"reference_merit_score": 65.55000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0003_F",
+"reference_merit_score": 65.55000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0004_M",
+"reference_merit_score": 84.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0004_F",
+"reference_merit_score": 84.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0005_M",
+"reference_merit_score": 93.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0005_F",
+"reference_merit_score": 93.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0006_M",
+"reference_merit_score": 66.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0006_F",
+"reference_merit_score": 66.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0007_M",
+"reference_merit_score": 41.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0007_F",
+"reference_merit_score": 41.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0008_M",
+"reference_merit_score": 57.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0008_F",
+"reference_merit_score": 57.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0009_M",
+"reference_merit_score": 64.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0009_F",
+"reference_merit_score": 64.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0010_M",
+"reference_merit_score": 67.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0010_F",
+"reference_merit_score": 67.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0011_M",
+"reference_merit_score": 48.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0011_F",
+"reference_merit_score": 48.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0012_M",
+"reference_merit_score": 53.949999999999996,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0012_F",
+"reference_merit_score": 53.949999999999996,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0013_M",
+"reference_merit_score": 71.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0013_F",
+"reference_merit_score": 71.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0014_M",
+"reference_merit_score": 32.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0014_F",
+"reference_merit_score": 32.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0015_M",
+"reference_merit_score": 51.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0015_F",
+"reference_merit_score": 51.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0016_M",
+"reference_merit_score": 67.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0016_F",
+"reference_merit_score": 67.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0017_M",
+"reference_merit_score": 50.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0017_F",
+"reference_merit_score": 50.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0018_M",
+"reference_merit_score": 48.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0018_F",
+"reference_merit_score": 48.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0019_M",
+"reference_merit_score": 80.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0019_F",
+"reference_merit_score": 80.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0020_M",
+"reference_merit_score": 67.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0020_F",
+"reference_merit_score": 67.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0021_M",
+"reference_merit_score": 57.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0021_F",
+"reference_merit_score": 57.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0022_M",
+"reference_merit_score": 79.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0022_F",
+"reference_merit_score": 79.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0023_M",
+"reference_merit_score": 68.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0023_F",
+"reference_merit_score": 68.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0024_M",
+"reference_merit_score": 74.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0024_F",
+"reference_merit_score": 74.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0025_M",
+"reference_merit_score": 82.35000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0025_F",
+"reference_merit_score": 82.35000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0026_M",
+"reference_merit_score": 31.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0026_F",
+"reference_merit_score": 31.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0027_M",
+"reference_merit_score": 27.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0027_F",
+"reference_merit_score": 27.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0028_M",
+"reference_merit_score": 49.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0028_F",
+"reference_merit_score": 49.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0029_M",
+"reference_merit_score": 61.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0029_F",
+"reference_merit_score": 61.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0030_M",
+"reference_merit_score": 63.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0030_F",
+"reference_merit_score": 63.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0031_M",
+"reference_merit_score": 68.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0031_F",
+"reference_merit_score": 68.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0032_M",
+"reference_merit_score": 38.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0032_F",
+"reference_merit_score": 38.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0033_M",
+"reference_merit_score": 54.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0033_F",
+"reference_merit_score": 54.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0034_M",
+"reference_merit_score": 73.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0034_F",
+"reference_merit_score": 73.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0035_M",
+"reference_merit_score": 67.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0035_F",
+"reference_merit_score": 67.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0036_M",
+"reference_merit_score": 45.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0036_F",
+"reference_merit_score": 45.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0037_M",
+"reference_merit_score": 70.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0037_F",
+"reference_merit_score": 70.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0038_M",
+"reference_merit_score": 74.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0038_F",
+"reference_merit_score": 74.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0039_M",
+"reference_merit_score": 71.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0039_F",
+"reference_merit_score": 71.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0040_M",
+"reference_merit_score": 61.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0040_F",
+"reference_merit_score": 61.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0041_M",
+"reference_merit_score": 48.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0041_F",
+"reference_merit_score": 48.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0042_M",
+"reference_merit_score": 74.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0042_F",
+"reference_merit_score": 74.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0043_M",
+"reference_merit_score": 35.4,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0043_F",
+"reference_merit_score": 35.4,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0044_M",
+"reference_merit_score": 62.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0044_F",
+"reference_merit_score": 62.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0045_M",
+"reference_merit_score": 66.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0045_F",
+"reference_merit_score": 66.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0046_M",
+"reference_merit_score": 72.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0046_F",
+"reference_merit_score": 72.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0047_M",
+"reference_merit_score": 43.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0047_F",
+"reference_merit_score": 43.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0048_M",
+"reference_merit_score": 52.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0048_F",
+"reference_merit_score": 52.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0049_M",
+"reference_merit_score": 67.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0049_F",
+"reference_merit_score": 67.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0050_M",
+"reference_merit_score": 63.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0050_F",
+"reference_merit_score": 63.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0051_M",
+"reference_merit_score": 62.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0051_F",
+"reference_merit_score": 62.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0052_M",
+"reference_merit_score": 65.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0052_F",
+"reference_merit_score": 65.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0053_M",
+"reference_merit_score": 51.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0053_F",
+"reference_merit_score": 51.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0054_M",
+"reference_merit_score": 71.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0054_F",
+"reference_merit_score": 71.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0055_M",
+"reference_merit_score": 61.099999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0055_F",
+"reference_merit_score": 61.099999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0056_M",
+"reference_merit_score": 69.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0056_F",
+"reference_merit_score": 69.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0057_M",
+"reference_merit_score": 61.25000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0057_F",
+"reference_merit_score": 61.25000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0058_M",
+"reference_merit_score": 59.4,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0058_F",
+"reference_merit_score": 59.4,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0059_M",
+"reference_merit_score": 43.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0059_F",
+"reference_merit_score": 43.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0060_M",
+"reference_merit_score": 69.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0060_F",
+"reference_merit_score": 69.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0061_M",
+"reference_merit_score": 36.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0061_F",
+"reference_merit_score": 36.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0062_M",
+"reference_merit_score": 62.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0062_F",
+"reference_merit_score": 62.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0063_M",
+"reference_merit_score": 50.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0063_F",
+"reference_merit_score": 50.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0064_M",
+"reference_merit_score": 80.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0064_F",
+"reference_merit_score": 80.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0065_M",
+"reference_merit_score": 42.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0065_F",
+"reference_merit_score": 42.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0066_M",
+"reference_merit_score": 67.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0066_F",
+"reference_merit_score": 67.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0067_M",
+"reference_merit_score": 69.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0067_F",
+"reference_merit_score": 69.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0068_M",
+"reference_merit_score": 63.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0068_F",
+"reference_merit_score": 63.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0069_M",
+"reference_merit_score": 68.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0069_F",
+"reference_merit_score": 68.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0070_M",
+"reference_merit_score": 79.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0070_F",
+"reference_merit_score": 79.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0071_M",
+"reference_merit_score": 52.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0071_F",
+"reference_merit_score": 52.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0072_M",
+"reference_merit_score": 52.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0072_F",
+"reference_merit_score": 52.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0073_M",
+"reference_merit_score": 51.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0073_F",
+"reference_merit_score": 51.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0074_M",
+"reference_merit_score": 96.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0074_F",
+"reference_merit_score": 96.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0075_M",
+"reference_merit_score": 68.6,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0075_F",
+"reference_merit_score": 68.6,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0076_M",
+"reference_merit_score": 45.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0076_F",
+"reference_merit_score": 45.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0077_M",
+"reference_merit_score": 60.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0077_F",
+"reference_merit_score": 60.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0078_M",
+"reference_merit_score": 45.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0078_F",
+"reference_merit_score": 45.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0079_M",
+"reference_merit_score": 69.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0079_F",
+"reference_merit_score": 69.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0080_M",
+"reference_merit_score": 59.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0080_F",
+"reference_merit_score": 59.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0081_M",
+"reference_merit_score": 65.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0081_F",
+"reference_merit_score": 65.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0082_M",
+"reference_merit_score": 56.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0082_F",
+"reference_merit_score": 56.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0083_M",
+"reference_merit_score": 66.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0083_F",
+"reference_merit_score": 66.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0084_M",
+"reference_merit_score": 50.25000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0084_F",
+"reference_merit_score": 50.25000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0085_M",
+"reference_merit_score": 39.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0085_F",
+"reference_merit_score": 39.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0086_M",
+"reference_merit_score": 68.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0086_F",
+"reference_merit_score": 68.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0087_M",
+"reference_merit_score": 60.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0087_F",
+"reference_merit_score": 60.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0088_M",
+"reference_merit_score": 35.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0088_F",
+"reference_merit_score": 35.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0089_M",
+"reference_merit_score": 91.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0089_F",
+"reference_merit_score": 91.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0090_M",
+"reference_merit_score": 53.699999999999996,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0090_F",
+"reference_merit_score": 53.699999999999996,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0091_M",
+"reference_merit_score": 84.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0091_F",
+"reference_merit_score": 84.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0092_M",
+"reference_merit_score": 70.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0092_F",
+"reference_merit_score": 70.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0093_M",
+"reference_merit_score": 54.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0093_F",
+"reference_merit_score": 54.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0094_M",
+"reference_merit_score": 77.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0094_F",
+"reference_merit_score": 77.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0095_M",
+"reference_merit_score": 59.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0095_F",
+"reference_merit_score": 59.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0096_M",
+"reference_merit_score": 73.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0096_F",
+"reference_merit_score": 73.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0097_M",
+"reference_merit_score": 62.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0097_F",
+"reference_merit_score": 62.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0098_M",
+"reference_merit_score": 57.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0098_F",
+"reference_merit_score": 57.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0099_M",
+"reference_merit_score": 60.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0099_F",
+"reference_merit_score": 60.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0100_M",
+"reference_merit_score": 81.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0100_F",
+"reference_merit_score": 81.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0101_M",
+"reference_merit_score": 60.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0101_F",
+"reference_merit_score": 60.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0102_M",
+"reference_merit_score": 88.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0102_F",
+"reference_merit_score": 88.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0103_M",
+"reference_merit_score": 64.3,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0103_F",
+"reference_merit_score": 64.3,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0104_M",
+"reference_merit_score": 61.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0104_F",
+"reference_merit_score": 61.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0105_M",
+"reference_merit_score": 70.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0105_F",
+"reference_merit_score": 70.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0106_M",
+"reference_merit_score": 57.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0106_F",
+"reference_merit_score": 57.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0107_M",
+"reference_merit_score": 60.85000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0107_F",
+"reference_merit_score": 60.85000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0108_M",
+"reference_merit_score": 62.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0108_F",
+"reference_merit_score": 62.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0109_M",
+"reference_merit_score": 70.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0109_F",
+"reference_merit_score": 70.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0110_M",
+"reference_merit_score": 57.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0110_F",
+"reference_merit_score": 57.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0111_M",
+"reference_merit_score": 56.00000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0111_F",
+"reference_merit_score": 56.00000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0112_M",
+"reference_merit_score": 59.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0112_F",
+"reference_merit_score": 59.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0113_M",
+"reference_merit_score": 66.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0113_F",
+"reference_merit_score": 66.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0114_M",
+"reference_merit_score": 55.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0114_F",
+"reference_merit_score": 55.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0115_M",
+"reference_merit_score": 83.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0115_F",
+"reference_merit_score": 83.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0116_M",
+"reference_merit_score": 73.60000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0116_F",
+"reference_merit_score": 73.60000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0117_M",
+"reference_merit_score": 75.05000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0117_F",
+"reference_merit_score": 75.05000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0118_M",
+"reference_merit_score": 84.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0118_F",
+"reference_merit_score": 84.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0119_M",
+"reference_merit_score": 87.55000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0119_F",
+"reference_merit_score": 87.55000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0120_M",
+"reference_merit_score": 54.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0120_F",
+"reference_merit_score": 54.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0121_M",
+"reference_merit_score": 71.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0121_F",
+"reference_merit_score": 71.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0122_M",
+"reference_merit_score": 85.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0122_F",
+"reference_merit_score": 85.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0123_M",
+"reference_merit_score": 67.44999999999999,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0123_F",
+"reference_merit_score": 67.44999999999999,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0124_M",
+"reference_merit_score": 40.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0124_F",
+"reference_merit_score": 40.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0125_M",
+"reference_merit_score": 79.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0125_F",
+"reference_merit_score": 79.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0126_M",
+"reference_merit_score": 66.80000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0126_F",
+"reference_merit_score": 66.80000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0127_M",
+"reference_merit_score": 32.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0127_F",
+"reference_merit_score": 32.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0128_M",
+"reference_merit_score": 69.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0128_F",
+"reference_merit_score": 69.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0129_M",
+"reference_merit_score": 75.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0129_F",
+"reference_merit_score": 75.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0130_M",
+"reference_merit_score": 59.75000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0130_F",
+"reference_merit_score": 59.75000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0131_M",
+"reference_merit_score": 46.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0131_F",
+"reference_merit_score": 46.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0132_M",
+"reference_merit_score": 44.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0132_F",
+"reference_merit_score": 44.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0133_M",
+"reference_merit_score": 90.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0133_F",
+"reference_merit_score": 90.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0134_M",
+"reference_merit_score": 82.6,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0134_F",
+"reference_merit_score": 82.6,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0135_M",
+"reference_merit_score": 56.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0135_F",
+"reference_merit_score": 56.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0136_M",
+"reference_merit_score": 76.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0136_F",
+"reference_merit_score": 76.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0137_M",
+"reference_merit_score": 46.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0137_F",
+"reference_merit_score": 46.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0138_M",
+"reference_merit_score": 75.05000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0138_F",
+"reference_merit_score": 75.05000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0139_M",
+"reference_merit_score": 53.00000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0139_F",
+"reference_merit_score": 53.00000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0140_M",
+"reference_merit_score": 63.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0140_F",
+"reference_merit_score": 63.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0141_M",
+"reference_merit_score": 54.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0141_F",
+"reference_merit_score": 54.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0142_M",
+"reference_merit_score": 62.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0142_F",
+"reference_merit_score": 62.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0143_M",
+"reference_merit_score": 75.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0143_F",
+"reference_merit_score": 75.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0144_M",
+"reference_merit_score": 52.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0144_F",
+"reference_merit_score": 52.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0145_M",
+"reference_merit_score": 50.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0145_F",
+"reference_merit_score": 50.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0146_M",
+"reference_merit_score": 53.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0146_F",
+"reference_merit_score": 53.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0147_M",
+"reference_merit_score": 51.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0147_F",
+"reference_merit_score": 51.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0148_M",
+"reference_merit_score": 64.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0148_F",
+"reference_merit_score": 64.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0149_M",
+"reference_merit_score": 72.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0149_F",
+"reference_merit_score": 72.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0150_M",
+"reference_merit_score": 57.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0150_F",
+"reference_merit_score": 57.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0151_M",
+"reference_merit_score": 54.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0151_F",
+"reference_merit_score": 54.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0152_M",
+"reference_merit_score": 73.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0152_F",
+"reference_merit_score": 73.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0153_M",
+"reference_merit_score": 39.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0153_F",
+"reference_merit_score": 39.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0154_M",
+"reference_merit_score": 47.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0154_F",
+"reference_merit_score": 47.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0155_M",
+"reference_merit_score": 78.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0155_F",
+"reference_merit_score": 78.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0156_M",
+"reference_merit_score": 60.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0156_F",
+"reference_merit_score": 60.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0157_M",
+"reference_merit_score": 45.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0157_F",
+"reference_merit_score": 45.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0158_M",
+"reference_merit_score": 37.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0158_F",
+"reference_merit_score": 37.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0159_M",
+"reference_merit_score": 62.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0159_F",
+"reference_merit_score": 62.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0160_M",
+"reference_merit_score": 66.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0160_F",
+"reference_merit_score": 66.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0161_M",
+"reference_merit_score": 61.099999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0161_F",
+"reference_merit_score": 61.099999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0162_M",
+"reference_merit_score": 57.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0162_F",
+"reference_merit_score": 57.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0163_M",
+"reference_merit_score": 41.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0163_F",
+"reference_merit_score": 41.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0164_M",
+"reference_merit_score": 52.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0164_F",
+"reference_merit_score": 52.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0165_M",
+"reference_merit_score": 59.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0165_F",
+"reference_merit_score": 59.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0166_M",
+"reference_merit_score": 42.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0166_F",
+"reference_merit_score": 42.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0167_M",
+"reference_merit_score": 83.30000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0167_F",
+"reference_merit_score": 83.30000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0168_M",
+"reference_merit_score": 72.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0168_F",
+"reference_merit_score": 72.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0169_M",
+"reference_merit_score": 87.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0169_F",
+"reference_merit_score": 87.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0170_M",
+"reference_merit_score": 94.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0170_F",
+"reference_merit_score": 94.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0171_M",
+"reference_merit_score": 34.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0171_F",
+"reference_merit_score": 34.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0172_M",
+"reference_merit_score": 72.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0172_F",
+"reference_merit_score": 72.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0173_M",
+"reference_merit_score": 70.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0173_F",
+"reference_merit_score": 70.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0174_M",
+"reference_merit_score": 57.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0174_F",
+"reference_merit_score": 57.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0175_M",
+"reference_merit_score": 61.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0175_F",
+"reference_merit_score": 61.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0176_M",
+"reference_merit_score": 57.349999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0176_F",
+"reference_merit_score": 57.349999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0177_M",
+"reference_merit_score": 70.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0177_F",
+"reference_merit_score": 70.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0178_M",
+"reference_merit_score": 58.3,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0178_F",
+"reference_merit_score": 58.3,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0179_M",
+"reference_merit_score": 78.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0179_F",
+"reference_merit_score": 78.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0180_M",
+"reference_merit_score": 35.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0180_F",
+"reference_merit_score": 35.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0181_M",
+"reference_merit_score": 51.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0181_F",
+"reference_merit_score": 51.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0182_M",
+"reference_merit_score": 60.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0182_F",
+"reference_merit_score": 60.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0183_M",
+"reference_merit_score": 61.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0183_F",
+"reference_merit_score": 61.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0184_M",
+"reference_merit_score": 57.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0184_F",
+"reference_merit_score": 57.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0185_M",
+"reference_merit_score": 46.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0185_F",
+"reference_merit_score": 46.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0186_M",
+"reference_merit_score": 80.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0186_F",
+"reference_merit_score": 80.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0187_M",
+"reference_merit_score": 32.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0187_F",
+"reference_merit_score": 32.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0188_M",
+"reference_merit_score": 70.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0188_F",
+"reference_merit_score": 70.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0189_M",
+"reference_merit_score": 61.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0189_F",
+"reference_merit_score": 61.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0190_M",
+"reference_merit_score": 55.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0190_F",
+"reference_merit_score": 55.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0191_M",
+"reference_merit_score": 48.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0191_F",
+"reference_merit_score": 48.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0192_M",
+"reference_merit_score": 50.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0192_F",
+"reference_merit_score": 50.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0193_M",
+"reference_merit_score": 59.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0193_F",
+"reference_merit_score": 59.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0194_M",
+"reference_merit_score": 72.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0194_F",
+"reference_merit_score": 72.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0195_M",
+"reference_merit_score": 58.949999999999996,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0195_F",
+"reference_merit_score": 58.949999999999996,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0196_M",
+"reference_merit_score": 58.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0196_F",
+"reference_merit_score": 58.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0197_M",
+"reference_merit_score": 80.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0197_F",
+"reference_merit_score": 80.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0198_M",
+"reference_merit_score": 93.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0198_F",
+"reference_merit_score": 93.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0199_M",
+"reference_merit_score": 81.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0199_F",
+"reference_merit_score": 81.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0200_M",
+"reference_merit_score": 66.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0200_F",
+"reference_merit_score": 66.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0201_M",
+"reference_merit_score": 53.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0201_F",
+"reference_merit_score": 53.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0202_M",
+"reference_merit_score": 79.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0202_F",
+"reference_merit_score": 79.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0203_M",
+"reference_merit_score": 36.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0203_F",
+"reference_merit_score": 36.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0204_M",
+"reference_merit_score": 59.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0204_F",
+"reference_merit_score": 59.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0205_M",
+"reference_merit_score": 61.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0205_F",
+"reference_merit_score": 61.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0206_M",
+"reference_merit_score": 38.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0206_F",
+"reference_merit_score": 38.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0207_M",
+"reference_merit_score": 35.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0207_F",
+"reference_merit_score": 35.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0208_M",
+"reference_merit_score": 72.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0208_F",
+"reference_merit_score": 72.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0209_M",
+"reference_merit_score": 67.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0209_F",
+"reference_merit_score": 67.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0210_M",
+"reference_merit_score": 82.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0210_F",
+"reference_merit_score": 82.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0211_M",
+"reference_merit_score": 54.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0211_F",
+"reference_merit_score": 54.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0212_M",
+"reference_merit_score": 67.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0212_F",
+"reference_merit_score": 67.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0213_M",
+"reference_merit_score": 68.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0213_F",
+"reference_merit_score": 68.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0214_M",
+"reference_merit_score": 41.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0214_F",
+"reference_merit_score": 41.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0215_M",
+"reference_merit_score": 59.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0215_F",
+"reference_merit_score": 59.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0216_M",
+"reference_merit_score": 41.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0216_F",
+"reference_merit_score": 41.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0217_M",
+"reference_merit_score": 66.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0217_F",
+"reference_merit_score": 66.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0218_M",
+"reference_merit_score": 83.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0218_F",
+"reference_merit_score": 83.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0219_M",
+"reference_merit_score": 57.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0219_F",
+"reference_merit_score": 57.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0220_M",
+"reference_merit_score": 50.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0220_F",
+"reference_merit_score": 50.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0221_M",
+"reference_merit_score": 79.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0221_F",
+"reference_merit_score": 79.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0222_M",
+"reference_merit_score": 67.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0222_F",
+"reference_merit_score": 67.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0223_M",
+"reference_merit_score": 63.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0223_F",
+"reference_merit_score": 63.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0224_M",
+"reference_merit_score": 58.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0224_F",
+"reference_merit_score": 58.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0225_M",
+"reference_merit_score": 67.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0225_F",
+"reference_merit_score": 67.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0226_M",
+"reference_merit_score": 61.849999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0226_F",
+"reference_merit_score": 61.849999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0227_M",
+"reference_merit_score": 77.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0227_F",
+"reference_merit_score": 77.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0228_M",
+"reference_merit_score": 68.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0228_F",
+"reference_merit_score": 68.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0229_M",
+"reference_merit_score": 64.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0229_F",
+"reference_merit_score": 64.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0230_M",
+"reference_merit_score": 69.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0230_F",
+"reference_merit_score": 69.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0231_M",
+"reference_merit_score": 59.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0231_F",
+"reference_merit_score": 59.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0232_M",
+"reference_merit_score": 55.35000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0232_F",
+"reference_merit_score": 55.35000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0233_M",
+"reference_merit_score": 52.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0233_F",
+"reference_merit_score": 52.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0234_M",
+"reference_merit_score": 60.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0234_F",
+"reference_merit_score": 60.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0235_M",
+"reference_merit_score": 51.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0235_F",
+"reference_merit_score": 51.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0236_M",
+"reference_merit_score": 71.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0236_F",
+"reference_merit_score": 71.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0237_M",
+"reference_merit_score": 79.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0237_F",
+"reference_merit_score": 79.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0238_M",
+"reference_merit_score": 72.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0238_F",
+"reference_merit_score": 72.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0239_M",
+"reference_merit_score": 60.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0239_F",
+"reference_merit_score": 60.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0240_M",
+"reference_merit_score": 39.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0240_F",
+"reference_merit_score": 39.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0241_M",
+"reference_merit_score": 49.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0241_F",
+"reference_merit_score": 49.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0242_M",
+"reference_merit_score": 50.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0242_F",
+"reference_merit_score": 50.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0243_M",
+"reference_merit_score": 46.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0243_F",
+"reference_merit_score": 46.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0244_M",
+"reference_merit_score": 47.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0244_F",
+"reference_merit_score": 47.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0245_M",
+"reference_merit_score": 46.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0245_F",
+"reference_merit_score": 46.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0246_M",
+"reference_merit_score": 47.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0246_F",
+"reference_merit_score": 47.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0247_M",
+"reference_merit_score": 67.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0247_F",
+"reference_merit_score": 67.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0248_M",
+"reference_merit_score": 42.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0248_F",
+"reference_merit_score": 42.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0249_M",
+"reference_merit_score": 77.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0249_F",
+"reference_merit_score": 77.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0250_M",
+"reference_merit_score": 75.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0250_F",
+"reference_merit_score": 75.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0251_M",
+"reference_merit_score": 51.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0251_F",
+"reference_merit_score": 51.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0252_M",
+"reference_merit_score": 59.00000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0252_F",
+"reference_merit_score": 59.00000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0253_M",
+"reference_merit_score": 48.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0253_F",
+"reference_merit_score": 48.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0254_M",
+"reference_merit_score": 61.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0254_F",
+"reference_merit_score": 61.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0255_M",
+"reference_merit_score": 30.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0255_F",
+"reference_merit_score": 30.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0256_M",
+"reference_merit_score": 63.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0256_F",
+"reference_merit_score": 63.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0257_M",
+"reference_merit_score": 72.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0257_F",
+"reference_merit_score": 72.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0258_M",
+"reference_merit_score": 47.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0258_F",
+"reference_merit_score": 47.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0259_M",
+"reference_merit_score": 58.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0259_F",
+"reference_merit_score": 58.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0260_M",
+"reference_merit_score": 46.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0260_F",
+"reference_merit_score": 46.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0261_M",
+"reference_merit_score": 43.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0261_F",
+"reference_merit_score": 43.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0262_M",
+"reference_merit_score": 46.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0262_F",
+"reference_merit_score": 46.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0263_M",
+"reference_merit_score": 70.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0263_F",
+"reference_merit_score": 70.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0264_M",
+"reference_merit_score": 80.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0264_F",
+"reference_merit_score": 80.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0265_M",
+"reference_merit_score": 88.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0265_F",
+"reference_merit_score": 88.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0266_M",
+"reference_merit_score": 67.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0266_F",
+"reference_merit_score": 67.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0267_M",
+"reference_merit_score": 87.3,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0267_F",
+"reference_merit_score": 87.3,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0268_M",
+"reference_merit_score": 77.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0268_F",
+"reference_merit_score": 77.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0269_M",
+"reference_merit_score": 55.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0269_F",
+"reference_merit_score": 55.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0270_M",
+"reference_merit_score": 62.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0270_F",
+"reference_merit_score": 62.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0271_M",
+"reference_merit_score": 42.949999999999996,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0271_F",
+"reference_merit_score": 42.949999999999996,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0272_M",
+"reference_merit_score": 65.35000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0272_F",
+"reference_merit_score": 65.35000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0273_M",
+"reference_merit_score": 65.35000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0273_F",
+"reference_merit_score": 65.35000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0274_M",
+"reference_merit_score": 47.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0274_F",
+"reference_merit_score": 47.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0275_M",
+"reference_merit_score": 77.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0275_F",
+"reference_merit_score": 77.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0276_M",
+"reference_merit_score": 66.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0276_F",
+"reference_merit_score": 66.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0277_M",
+"reference_merit_score": 71.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0277_F",
+"reference_merit_score": 71.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0278_M",
+"reference_merit_score": 44.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0278_F",
+"reference_merit_score": 44.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0279_M",
+"reference_merit_score": 51.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0279_F",
+"reference_merit_score": 51.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0280_M",
+"reference_merit_score": 76.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0280_F",
+"reference_merit_score": 76.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0281_M",
+"reference_merit_score": 71.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0281_F",
+"reference_merit_score": 71.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0282_M",
+"reference_merit_score": 53.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0282_F",
+"reference_merit_score": 53.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0283_M",
+"reference_merit_score": 69.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0283_F",
+"reference_merit_score": 69.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0284_M",
+"reference_merit_score": 56.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0284_F",
+"reference_merit_score": 56.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0285_M",
+"reference_merit_score": 64.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0285_F",
+"reference_merit_score": 64.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0286_M",
+"reference_merit_score": 50.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0286_F",
+"reference_merit_score": 50.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0287_M",
+"reference_merit_score": 65.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0287_F",
+"reference_merit_score": 65.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0288_M",
+"reference_merit_score": 44.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0288_F",
+"reference_merit_score": 44.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0289_M",
+"reference_merit_score": 83.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0289_F",
+"reference_merit_score": 83.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0290_M",
+"reference_merit_score": 81.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0290_F",
+"reference_merit_score": 81.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0291_M",
+"reference_merit_score": 68.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0291_F",
+"reference_merit_score": 68.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0292_M",
+"reference_merit_score": 37.4,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0292_F",
+"reference_merit_score": 37.4,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0293_M",
+"reference_merit_score": 67.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0293_F",
+"reference_merit_score": 67.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0294_M",
+"reference_merit_score": 52.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0294_F",
+"reference_merit_score": 52.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0295_M",
+"reference_merit_score": 61.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0295_F",
+"reference_merit_score": 61.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0296_M",
+"reference_merit_score": 59.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0296_F",
+"reference_merit_score": 59.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0297_M",
+"reference_merit_score": 65.55000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0297_F",
+"reference_merit_score": 65.55000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0298_M",
+"reference_merit_score": 69.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0298_F",
+"reference_merit_score": 69.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0299_M",
+"reference_merit_score": 51.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0299_F",
+"reference_merit_score": 51.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0300_M",
+"reference_merit_score": 64.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0300_F",
+"reference_merit_score": 64.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0301_M",
+"reference_merit_score": 59.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0301_F",
+"reference_merit_score": 59.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0302_M",
+"reference_merit_score": 48.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0302_F",
+"reference_merit_score": 48.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0303_M",
+"reference_merit_score": 79.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0303_F",
+"reference_merit_score": 79.85000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0304_M",
+"reference_merit_score": 83.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0304_F",
+"reference_merit_score": 83.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0305_M",
+"reference_merit_score": 42.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0305_F",
+"reference_merit_score": 42.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0306_M",
+"reference_merit_score": 55.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0306_F",
+"reference_merit_score": 55.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0307_M",
+"reference_merit_score": 69.80000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0307_F",
+"reference_merit_score": 69.80000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0308_M",
+"reference_merit_score": 71.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0308_F",
+"reference_merit_score": 71.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0309_M",
+"reference_merit_score": 72.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0309_F",
+"reference_merit_score": 72.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0310_M",
+"reference_merit_score": 49.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0310_F",
+"reference_merit_score": 49.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0311_M",
+"reference_merit_score": 69.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0311_F",
+"reference_merit_score": 69.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0312_M",
+"reference_merit_score": 68.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0312_F",
+"reference_merit_score": 68.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0313_M",
+"reference_merit_score": 58.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0313_F",
+"reference_merit_score": 58.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0314_M",
+"reference_merit_score": 64.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0314_F",
+"reference_merit_score": 64.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0315_M",
+"reference_merit_score": 68.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0315_F",
+"reference_merit_score": 68.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0316_M",
+"reference_merit_score": 63.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0316_F",
+"reference_merit_score": 63.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0317_M",
+"reference_merit_score": 55.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0317_F",
+"reference_merit_score": 55.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0318_M",
+"reference_merit_score": 57.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0318_F",
+"reference_merit_score": 57.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0319_M",
+"reference_merit_score": 51.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0319_F",
+"reference_merit_score": 51.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0320_M",
+"reference_merit_score": 86.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0320_F",
+"reference_merit_score": 86.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0321_M",
+"reference_merit_score": 48.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0321_F",
+"reference_merit_score": 48.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0322_M",
+"reference_merit_score": 74.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0322_F",
+"reference_merit_score": 74.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0323_M",
+"reference_merit_score": 39.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0323_F",
+"reference_merit_score": 39.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0324_M",
+"reference_merit_score": 61.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0324_F",
+"reference_merit_score": 61.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0325_M",
+"reference_merit_score": 73.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0325_F",
+"reference_merit_score": 73.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0326_M",
+"reference_merit_score": 68.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0326_F",
+"reference_merit_score": 68.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0327_M",
+"reference_merit_score": 68.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0327_F",
+"reference_merit_score": 68.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0328_M",
+"reference_merit_score": 80.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0328_F",
+"reference_merit_score": 80.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0329_M",
+"reference_merit_score": 73.6,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0329_F",
+"reference_merit_score": 73.6,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0330_M",
+"reference_merit_score": 67.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0330_F",
+"reference_merit_score": 67.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0331_M",
+"reference_merit_score": 55.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0331_F",
+"reference_merit_score": 55.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0332_M",
+"reference_merit_score": 56.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0332_F",
+"reference_merit_score": 56.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0333_M",
+"reference_merit_score": 82.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0333_F",
+"reference_merit_score": 82.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0334_M",
+"reference_merit_score": 66.6,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0334_F",
+"reference_merit_score": 66.6,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0335_M",
+"reference_merit_score": 74.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0335_F",
+"reference_merit_score": 74.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0336_M",
+"reference_merit_score": 84.55000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0336_F",
+"reference_merit_score": 84.55000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0337_M",
+"reference_merit_score": 57.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0337_F",
+"reference_merit_score": 57.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0338_M",
+"reference_merit_score": 67.3,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0338_F",
+"reference_merit_score": 67.3,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0339_M",
+"reference_merit_score": 76.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0339_F",
+"reference_merit_score": 76.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0340_M",
+"reference_merit_score": 49.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0340_F",
+"reference_merit_score": 49.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0341_M",
+"reference_merit_score": 38.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0341_F",
+"reference_merit_score": 38.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0342_M",
+"reference_merit_score": 67.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0342_F",
+"reference_merit_score": 67.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0343_M",
+"reference_merit_score": 42.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0343_F",
+"reference_merit_score": 42.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0344_M",
+"reference_merit_score": 61.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0344_F",
+"reference_merit_score": 61.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0345_M",
+"reference_merit_score": 56.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0345_F",
+"reference_merit_score": 56.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0346_M",
+"reference_merit_score": 56.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0346_F",
+"reference_merit_score": 56.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0347_M",
+"reference_merit_score": 50.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0347_F",
+"reference_merit_score": 50.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0348_M",
+"reference_merit_score": 75.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0348_F",
+"reference_merit_score": 75.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0349_M",
+"reference_merit_score": 76.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0349_F",
+"reference_merit_score": 76.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0350_M",
+"reference_merit_score": 55.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0350_F",
+"reference_merit_score": 55.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0351_M",
+"reference_merit_score": 83.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0351_F",
+"reference_merit_score": 83.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0352_M",
+"reference_merit_score": 49.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0352_F",
+"reference_merit_score": 49.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0353_M",
+"reference_merit_score": 41.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0353_F",
+"reference_merit_score": 41.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0354_M",
+"reference_merit_score": 81.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0354_F",
+"reference_merit_score": 81.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0355_M",
+"reference_merit_score": 61.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0355_F",
+"reference_merit_score": 61.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0356_M",
+"reference_merit_score": 78.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0356_F",
+"reference_merit_score": 78.10000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0357_M",
+"reference_merit_score": 65.05000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0357_F",
+"reference_merit_score": 65.05000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0358_M",
+"reference_merit_score": 71.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0358_F",
+"reference_merit_score": 71.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0359_M",
+"reference_merit_score": 50.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0359_F",
+"reference_merit_score": 50.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0360_M",
+"reference_merit_score": 69.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0360_F",
+"reference_merit_score": 69.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0361_M",
+"reference_merit_score": 72.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0361_F",
+"reference_merit_score": 72.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0362_M",
+"reference_merit_score": 30.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0362_F",
+"reference_merit_score": 30.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0363_M",
+"reference_merit_score": 54.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0363_F",
+"reference_merit_score": 54.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0364_M",
+"reference_merit_score": 55.800000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0364_F",
+"reference_merit_score": 55.800000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0365_M",
+"reference_merit_score": 57.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0365_F",
+"reference_merit_score": 57.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0366_M",
+"reference_merit_score": 64.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0366_F",
+"reference_merit_score": 64.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0367_M",
+"reference_merit_score": 68.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0367_F",
+"reference_merit_score": 68.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0368_M",
+"reference_merit_score": 49.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0368_F",
+"reference_merit_score": 49.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0369_M",
+"reference_merit_score": 54.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0369_F",
+"reference_merit_score": 54.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0370_M",
+"reference_merit_score": 65.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0370_F",
+"reference_merit_score": 65.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0371_M",
+"reference_merit_score": 54.85000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0371_F",
+"reference_merit_score": 54.85000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0372_M",
+"reference_merit_score": 73.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0372_F",
+"reference_merit_score": 73.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0373_M",
+"reference_merit_score": 36.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0373_F",
+"reference_merit_score": 36.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0374_M",
+"reference_merit_score": 63.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0374_F",
+"reference_merit_score": 63.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0375_M",
+"reference_merit_score": 73.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0375_F",
+"reference_merit_score": 73.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0376_M",
+"reference_merit_score": 62.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0376_F",
+"reference_merit_score": 62.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0377_M",
+"reference_merit_score": 52.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0377_F",
+"reference_merit_score": 52.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0378_M",
+"reference_merit_score": 69.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0378_F",
+"reference_merit_score": 69.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0379_M",
+"reference_merit_score": 36.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0379_F",
+"reference_merit_score": 36.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0380_M",
+"reference_merit_score": 49.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0380_F",
+"reference_merit_score": 49.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0381_M",
+"reference_merit_score": 62.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0381_F",
+"reference_merit_score": 62.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0382_M",
+"reference_merit_score": 60.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0382_F",
+"reference_merit_score": 60.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0383_M",
+"reference_merit_score": 60.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0383_F",
+"reference_merit_score": 60.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0384_M",
+"reference_merit_score": 59.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0384_F",
+"reference_merit_score": 59.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0385_M",
+"reference_merit_score": 34.800000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0385_F",
+"reference_merit_score": 34.800000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0386_M",
+"reference_merit_score": 73.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0386_F",
+"reference_merit_score": 73.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0387_M",
+"reference_merit_score": 70.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0387_F",
+"reference_merit_score": 70.95,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0388_M",
+"reference_merit_score": 41.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0388_F",
+"reference_merit_score": 41.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0389_M",
+"reference_merit_score": 55.800000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0389_F",
+"reference_merit_score": 55.800000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0390_M",
+"reference_merit_score": 64.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0390_F",
+"reference_merit_score": 64.8,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0391_M",
+"reference_merit_score": 72.60000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0391_F",
+"reference_merit_score": 72.60000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0392_M",
+"reference_merit_score": 51.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0392_F",
+"reference_merit_score": 51.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0393_M",
+"reference_merit_score": 51.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0393_F",
+"reference_merit_score": 51.1,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0394_M",
+"reference_merit_score": 70.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0394_F",
+"reference_merit_score": 70.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0395_M",
+"reference_merit_score": 75.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0395_F",
+"reference_merit_score": 75.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0396_M",
+"reference_merit_score": 50.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0396_F",
+"reference_merit_score": 50.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0397_M",
+"reference_merit_score": 40.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0397_F",
+"reference_merit_score": 40.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0398_M",
+"reference_merit_score": 55.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0398_F",
+"reference_merit_score": 55.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0399_M",
+"reference_merit_score": 43.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0399_F",
+"reference_merit_score": 43.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0400_M",
+"reference_merit_score": 57.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0400_F",
+"reference_merit_score": 57.35,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0401_M",
+"reference_merit_score": 84.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0401_F",
+"reference_merit_score": 84.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0402_M",
+"reference_merit_score": 52.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0402_F",
+"reference_merit_score": 52.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0403_M",
+"reference_merit_score": 66.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0403_F",
+"reference_merit_score": 66.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0404_M",
+"reference_merit_score": 70.3,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0404_F",
+"reference_merit_score": 70.3,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0405_M",
+"reference_merit_score": 87.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0405_F",
+"reference_merit_score": 87.1,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0406_M",
+"reference_merit_score": 63.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0406_F",
+"reference_merit_score": 63.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0407_M",
+"reference_merit_score": 41.4,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0407_F",
+"reference_merit_score": 41.4,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0408_M",
+"reference_merit_score": 56.75000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0408_F",
+"reference_merit_score": 56.75000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0409_M",
+"reference_merit_score": 39.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0409_F",
+"reference_merit_score": 39.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0410_M",
+"reference_merit_score": 55.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0410_F",
+"reference_merit_score": 55.6,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0411_M",
+"reference_merit_score": 61.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0411_F",
+"reference_merit_score": 61.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0412_M",
+"reference_merit_score": 61.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0412_F",
+"reference_merit_score": 61.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0413_M",
+"reference_merit_score": 70.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0413_F",
+"reference_merit_score": 70.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0414_M",
+"reference_merit_score": 57.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0414_F",
+"reference_merit_score": 57.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0415_M",
+"reference_merit_score": 46.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0415_F",
+"reference_merit_score": 46.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0416_M",
+"reference_merit_score": 54.25000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0416_F",
+"reference_merit_score": 54.25000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0417_M",
+"reference_merit_score": 64.30000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0417_F",
+"reference_merit_score": 64.30000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0418_M",
+"reference_merit_score": 73.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0418_F",
+"reference_merit_score": 73.8,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0419_M",
+"reference_merit_score": 39.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0419_F",
+"reference_merit_score": 39.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0420_M",
+"reference_merit_score": 52.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0420_F",
+"reference_merit_score": 52.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0421_M",
+"reference_merit_score": 65.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0421_F",
+"reference_merit_score": 65.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0422_M",
+"reference_merit_score": 61.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0422_F",
+"reference_merit_score": 61.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0423_M",
+"reference_merit_score": 67.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0423_F",
+"reference_merit_score": 67.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0424_M",
+"reference_merit_score": 41.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0424_F",
+"reference_merit_score": 41.550000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0425_M",
+"reference_merit_score": 69.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0425_F",
+"reference_merit_score": 69.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0426_M",
+"reference_merit_score": 67.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0426_F",
+"reference_merit_score": 67.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0427_M",
+"reference_merit_score": 63.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0427_F",
+"reference_merit_score": 63.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0428_M",
+"reference_merit_score": 69.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0428_F",
+"reference_merit_score": 69.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0429_M",
+"reference_merit_score": 67.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0429_F",
+"reference_merit_score": 67.0,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0430_M",
+"reference_merit_score": 73.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0430_F",
+"reference_merit_score": 73.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0431_M",
+"reference_merit_score": 51.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0431_F",
+"reference_merit_score": 51.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0432_M",
+"reference_merit_score": 64.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0432_F",
+"reference_merit_score": 64.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0433_M",
+"reference_merit_score": 69.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0433_F",
+"reference_merit_score": 69.4,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0434_M",
+"reference_merit_score": 74.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0434_F",
+"reference_merit_score": 74.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0435_M",
+"reference_merit_score": 38.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0435_F",
+"reference_merit_score": 38.95,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0436_M",
+"reference_merit_score": 63.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0436_F",
+"reference_merit_score": 63.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0437_M",
+"reference_merit_score": 73.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0437_F",
+"reference_merit_score": 73.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0438_M",
+"reference_merit_score": 59.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0438_F",
+"reference_merit_score": 59.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0439_M",
+"reference_merit_score": 65.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0439_F",
+"reference_merit_score": 65.5,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0440_M",
+"reference_merit_score": 46.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0440_F",
+"reference_merit_score": 46.65,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0441_M",
+"reference_merit_score": 69.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0441_F",
+"reference_merit_score": 69.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0442_M",
+"reference_merit_score": 57.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0442_F",
+"reference_merit_score": 57.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0443_M",
+"reference_merit_score": 54.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0443_F",
+"reference_merit_score": 54.45,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0444_M",
+"reference_merit_score": 72.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0444_F",
+"reference_merit_score": 72.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0445_M",
+"reference_merit_score": 31.900000000000002,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0445_F",
+"reference_merit_score": 31.900000000000002,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0446_M",
+"reference_merit_score": 68.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0446_F",
+"reference_merit_score": 68.7,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0447_M",
+"reference_merit_score": 60.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0447_F",
+"reference_merit_score": 60.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0448_M",
+"reference_merit_score": 37.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0448_F",
+"reference_merit_score": 37.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0449_M",
+"reference_merit_score": 65.94999999999999,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0449_F",
+"reference_merit_score": 65.94999999999999,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0450_M",
+"reference_merit_score": 70.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0450_F",
+"reference_merit_score": 70.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0451_M",
+"reference_merit_score": 64.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0451_F",
+"reference_merit_score": 64.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0452_M",
+"reference_merit_score": 61.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0452_F",
+"reference_merit_score": 61.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0453_M",
+"reference_merit_score": 56.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0453_F",
+"reference_merit_score": 56.050000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0454_M",
+"reference_merit_score": 74.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0454_F",
+"reference_merit_score": 74.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0455_M",
+"reference_merit_score": 75.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0455_F",
+"reference_merit_score": 75.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0456_M",
+"reference_merit_score": 74.30000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0456_F",
+"reference_merit_score": 74.30000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0457_M",
+"reference_merit_score": 58.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0457_F",
+"reference_merit_score": 58.400000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0458_M",
+"reference_merit_score": 69.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0458_F",
+"reference_merit_score": 69.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0459_M",
+"reference_merit_score": 62.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0459_F",
+"reference_merit_score": 62.650000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0460_M",
+"reference_merit_score": 56.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0460_F",
+"reference_merit_score": 56.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0461_M",
+"reference_merit_score": 55.35000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0461_F",
+"reference_merit_score": 55.35000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0462_M",
+"reference_merit_score": 67.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0462_F",
+"reference_merit_score": 67.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0463_M",
+"reference_merit_score": 62.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0463_F",
+"reference_merit_score": 62.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0464_M",
+"reference_merit_score": 50.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0464_F",
+"reference_merit_score": 50.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0465_M",
+"reference_merit_score": 82.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0465_F",
+"reference_merit_score": 82.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0466_M",
+"reference_merit_score": 50.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0466_F",
+"reference_merit_score": 50.55,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0467_M",
+"reference_merit_score": 39.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0467_F",
+"reference_merit_score": 39.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0468_M",
+"reference_merit_score": 50.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0468_F",
+"reference_merit_score": 50.9,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0469_M",
+"reference_merit_score": 66.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0469_F",
+"reference_merit_score": 66.9,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0470_M",
+"reference_merit_score": 63.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0470_F",
+"reference_merit_score": 63.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0471_M",
+"reference_merit_score": 66.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0471_F",
+"reference_merit_score": 66.45,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0472_M",
+"reference_merit_score": 53.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0472_F",
+"reference_merit_score": 53.75,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0473_M",
+"reference_merit_score": 46.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0473_F",
+"reference_merit_score": 46.5,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0474_M",
+"reference_merit_score": 74.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0474_F",
+"reference_merit_score": 74.25,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0475_M",
+"reference_merit_score": 43.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0475_F",
+"reference_merit_score": 43.05,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0476_M",
+"reference_merit_score": 64.55000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0476_F",
+"reference_merit_score": 64.55000000000001,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0477_M",
+"reference_merit_score": 77.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0477_F",
+"reference_merit_score": 77.55,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0478_M",
+"reference_merit_score": 74.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0478_F",
+"reference_merit_score": 74.85,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0479_M",
+"reference_merit_score": 52.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0479_F",
+"reference_merit_score": 52.7,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0480_M",
+"reference_merit_score": 48.349999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0480_F",
+"reference_merit_score": 48.349999999999994,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0481_M",
+"reference_merit_score": 52.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0481_F",
+"reference_merit_score": 52.0,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0482_M",
+"reference_merit_score": 44.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0482_F",
+"reference_merit_score": 44.85,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0483_M",
+"reference_merit_score": 84.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0483_F",
+"reference_merit_score": 84.2,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0484_M",
+"reference_merit_score": 63.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0484_F",
+"reference_merit_score": 63.15,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0485_M",
+"reference_merit_score": 64.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0485_F",
+"reference_merit_score": 64.2,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0486_M",
+"reference_merit_score": 66.30000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0486_F",
+"reference_merit_score": 66.30000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0487_M",
+"reference_merit_score": 66.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0487_F",
+"reference_merit_score": 66.35,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0488_M",
+"reference_merit_score": 65.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0488_F",
+"reference_merit_score": 65.05,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0489_M",
+"reference_merit_score": 70.05000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0489_F",
+"reference_merit_score": 70.05000000000001,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0490_M",
+"reference_merit_score": 55.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0490_F",
+"reference_merit_score": 55.900000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0491_M",
+"reference_merit_score": 65.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0491_F",
+"reference_merit_score": 65.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0492_M",
+"reference_merit_score": 56.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0492_F",
+"reference_merit_score": 56.150000000000006,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0493_M",
+"reference_merit_score": 43.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0493_F",
+"reference_merit_score": 43.300000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0494_M",
+"reference_merit_score": 53.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0494_F",
+"reference_merit_score": 53.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0495_M",
+"reference_merit_score": 87.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0495_F",
+"reference_merit_score": 87.75,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0496_M",
+"reference_merit_score": 73.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0496_F",
+"reference_merit_score": 73.65,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0497_M",
+"reference_merit_score": 82.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0497_F",
+"reference_merit_score": 82.15,
+"reference_qualified": 1
+},
+{
+"candidate_id": "GROUP_37_0498_M",
+"reference_merit_score": 60.800000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0498_F",
+"reference_merit_score": 60.800000000000004,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0499_M",
+"reference_merit_score": 63.25,
+"reference_qualified": 0
+},
+{
+"candidate_id": "GROUP_37_0499_F",
+"reference_merit_score": 63.25,
+"reference_qualified": 0
+}
+]

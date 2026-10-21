@@ -1,0 +1,40 @@
+{
+  "hashes": {
+    "13": {
+      "group_records": "a06699121bb092e080203de33ac2116ef33fb60af52715f72daad165333226dd",
+      "group_sidecar": "057f9b23bb3ede635519241f2dcf85e823589a0b0b32ae3767daebd38aa2f410",
+      "profiles": "8474eb92ab923beeaaeaba66dabbbda1affb8cd94a71b98f7f22575210aefcfb",
+      "train_sidecar": "ba02fc8023cc7022115eb4f47eb531d709248732a8ec82171211202fa9507733",
+      "training_D0": "760211d2683acaf047148cff2cc90e5ad34366879f92531a4859ed81188e16b7",
+      "training_D1": "3ebdec24cf2a7d6235bbfc5d0346475e4a29c31ee613ca54fef10f5f00281312",
+      "training_D2": "0e66ed3d31e7f8adca049b37231fd8503b8e6d5810003e81afdb0166d1988814",
+      "training_D3": "d2445f65192d8d5bb552a2cdeb1828b1f9cea57a2cf48513ca7d77619e21bd83"
+    },
+    "37": {
+      "group_records": "c03c8fec0bac7f0f04971bd109702b073eaeaa9a74e064369e77a5d02a7840cc",
+      "group_sidecar": "eb031b1167e9d7304a42d9d1a0168f0100a7f1f16632ddab5fd1ad1633529e71",
+      "profiles": "e47f88752c1aa2afb73199affed3b46f54bcd8be1f546266dedcf7b996b10aad",
+      "train_sidecar": "782c86d2b50d15a129d94b4ab4cd58e80581ab467695a7ff8662b1f0628d8b37",
+      "training_D0": "89fded2aec7fff985d4c4d0dcc08b9f3b95e080bbfc6df67078b2835357ff5d0",
+      "training_D1": "44238cd12723470310eafe30cea13913d3c3c44781fe91eb0959413cd57ebb2c",
+      "training_D2": "7e434a99395fae8dad2dd7656f694c25cab5492f37c2a6cacd22f99096af0806",
+      "training_D3": "a1786eeb0768e9b0b85f27304369d8c27a5853aa405c478d641a0b08a805f89a"
+    },
+    "73": {
+      "group_records": "32d42acc4918e9121cc58a3464e4bb8400a2180bbe6806447efdd94db1cc3a75",
+      "group_sidecar": "24d72366005895eec5a55e9f0f90599edc705cb308689e23dd9f7bd95b69bc98",
+      "profiles": "df1da579b7d4739fc1d809a73a8c8753e8e1d51a6a76691de89d14cfefa3155c",
+      "train_sidecar": "16f75fceb23a9487de27138a639854ffa7250be562ff8f81e129b0b311c23366",
+      "training_D0": "4b267473577e0276959600043c7f475c0adaa8f115e613a0d726c9a8f723a4d9",
+      "training_D1": "a46281f97b3932306962ca37702a5a878c05c7deb527d05d340d2f1fdaf447ee",
+      "training_D2": "1c60039bf3ecbba87a82a63e387f24fbb09201c21f8257985e3b072024a97685",
+      "training_D3": "1c6299299324434deb1a42702788386c541d120b5d9e0179b1450b88a1f2bba8"
+    }
+  },
+  "numpy": "2.5.4",
+  "seeds": [
+    13,
+    37,
+    73
+  ]
+}
